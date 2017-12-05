@@ -1,6 +1,6 @@
 # Chinese_QA
 
-#### Delta Chinese QA of Machine Learning final project
+#### Delta Chinese QA of Machine Learning final project [introduction](https://docs.google.com/presentation/d/1WQ2m6CbnCTkgUoDca782GPk9sqnCLxkc-hPxfg8y9p4/edit#slide=id.p)
 ----------------------------------------------------   
 
 [Attention and Augmented Recurrent Neural Networks](https://distill.pub/2016/augmented-rnns/)介紹Attention和rnn的原理
