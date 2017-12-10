@@ -24,7 +24,7 @@ Pointer Net: [Pointer Networks](https://arxiv.org/pdf/1506.03134.pdf)
   
   
 ------------------------------------------------------
-[TensorFlow implementation of Match-LSTM and Answer pointer ](https://github.com/MurtyShikhar/Question-Answering)for the popular SQuAD dataset.
+[TensorFlow implementation of Match-LSTM and Answer pointer ](https://github.com/MurtyShikhar/Question-Answering)for the popular [SQuAD](https://rajpurkar.github.io/SQuAD-explorer/) dataset.
   
 -------------------------------------------------------
 [Dynamic RNN](https://github.com/KnHuq/Dynamic-Tensorflow-Tutorial)
